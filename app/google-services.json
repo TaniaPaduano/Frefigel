@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894543439313",
+    "project_id": "fir-kotlin-2ed83",
+    "storage_bucket": "fir-kotlin-2ed83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894543439313:android:3f5cff1ae8513b89e72cf0",
+        "android_client_info": {
+          "package_name": "com.example.frefigel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894543439313-p2utnv2rlo6drgs0rvqrod107jdf4fnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTara5xxFZFA4N3YWl2gy26rXDY6n5Z8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894543439313-p2utnv2rlo6drgs0rvqrod107jdf4fnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

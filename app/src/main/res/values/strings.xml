@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Frefigel</string>
+    <string name="user_email">userdefault@gmail.com</string>
+    <string name="user_name">User Default</string>
+    <string name="update_profile">Guardar</string>
+    <string name="delete_account">Eliminar cuenta</string>
+    <string name="change_password">Cambiar contraseña</string>
+    <string name="all">TODO</string>
+    <string name="email">Email</string>
+    <string name="name">Nombre completo</string>
+    <string name="forget_password">¿olvidaste tu contraseña?</string>
+    <string name="title_check_email">VERIFICAR CORREO</string>
+    <string name="subtitle_check_email">Para completar su registro. ¡Por favor! verifique su correo y después de clic en continuar.(:</string>
+    <string name="continue_check_email">Continuar</string>
+    <string name="title_account_recovery">Recuperación de la cuenta</string>
+    <string name="subtitle_account_recovery">Ingresa tu email para que se te pueda enviar un correo con los pasos para cambiar tu contraseña.</string>
+    <string name="recovery_account">Enviar</string>
+    <string name="title_update_password">NUEVA CONTRASEÑA</string>
+    <string name="subtitle_update_password">Para poder cambiar tu contraseña primero debes ingresar tu contraseña actual.</string>
+    <string name="title_delete_account">Eliminar cuenta</string>
+    <string name="subtitle_delete_account">Por motivos de seguridad para eliminar tu cuenta por completo, debes de ingresar tu contraseña.</string>
+    <string name="delete">Eliminar</string>
+    <string name="nosotros">FREFRIGEL S.A. DE C.V. Es una microempresa familiar PYMES, fundada en 1998, para la elaboración, distribución y ventas de dulces para mayoristas y medio mayoristas, Una línea de dulces y gelatinas envasadas, se producen y distribuyen.</string>
+    <string name="mision">Mision: Nuestra mision es ofrecerles lineas de productos que le generen amplio margen de utilidad. Este negocio está dedicado a la elaboración, comercialización y promoción de dulces.</string>
+    <string name="vision">Vision:Llegar a ser el Distribuidor de preferencia en el valle de Toluca y Estado de México, por los precios, utilidades y confianza que nuestros clientes nos otorgan en la compra venta y distribución de productos de calidad.</string>
+    <string name="password">Contraseña</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="current_password">Contraseña actual</string>
+    <string name="repeat_password">Confirma la contraseña</string>
+</resources>
